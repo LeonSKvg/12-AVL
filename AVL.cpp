@@ -225,7 +225,7 @@ NO* insereArvore(NO* no, int valor) {
         return girarEsquerda(no);
     }
 
-    return no; // nenhum desbalanceamento
+    return no;
 }
 
 // ---------- Utilidades ----------
